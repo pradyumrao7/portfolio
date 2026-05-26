@@ -20,6 +20,7 @@ const certifications = [
 ];
 
 const sports = [
+  'Participated in state-level swimming competitions',
   'Captained and won in inter-college volleyball, throwball tournaments in Hyderabad and Goa',
   'Secured 3rd place in the 43rd Senior National Throw-ball Championship',
   'Represented CBSE at U-17 Nationals, Secured 1st & 3rd Positions at State Level',
@@ -29,7 +30,7 @@ const education = [
   {
     title: 'BBA in Computational Business Analytics',
     meta: 'Mahindra University, Telangana • Aug’22 – May’25',
-    details: 'Secured a CGPA of 7.25 out of 10',
+    details: 'CGPA: 4.24 up to 5th semester',
   },
   {
     title: 'Class XII',
@@ -344,6 +345,7 @@ function App() {
                 <h2 style={{ marginTop: '2rem' }}>Sports & Extra-Curricular</h2>
                 <ul className="certificate-details-list">
                   <li><strong>Airo’ MU, BITS Sphree, etc. Sports Fest</strong> – Captained and won in inter-college volleyball, throwball tournaments in Hyderabad and Goa.</li>
+                  <li><strong>Swimming</strong> – Participated in state-level swimming competitions.</li>
                   <li><strong>Throw-ball Nationals</strong> – Secured 3rd place in the 43rd Senior National Throw-ball Championship.</li>
                   <li><strong>Kho-kho Nationals</strong> – Represented CBSE at U-17 Nationals, Secured 1st & 3rd Positions at State Level (2018-2019).</li>
                   <li><strong>Cultural Events Volunteer (2022–2025)</strong> – Worked with Artfelt & Aeforia Clubs – Managed logistics, decor, hosting, and marathon events, Mahindra University.</li>
