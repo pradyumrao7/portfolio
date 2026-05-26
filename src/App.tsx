@@ -130,8 +130,8 @@ function App() {
     <>
       <header className="site-header">
         <div className="brand-block">
-          <p className="brand-name">Yadagiri Pradyum Rao</p>
-          <p className="brand-tag">BBA Student • Portfolio</p>
+          <p className="brand-name">Business Analytics Portfolio</p>
+          <p className="brand-tag">BBA Student • Certificates & Experience</p>
         </div>
         <nav className="site-nav" aria-label="Primary navigation">
           <button
@@ -205,7 +205,7 @@ function App() {
               <article className="info-panel">
                 <h2>About</h2>
                 <p style={{ wordBreak: 'break-word', whiteSpace: 'pre-line' }}>
-                  Yadagiri Pradyum Rao is a BBA student at Mahindra University with a strong academic record and hands-on exposure to business analytics, marketing, and student leadership. His profile reflects a balance of performance, communication, and real-world initiative.
+                  I am a BBA student at Mahindra University with a strong academic record and hands-on exposure to business analytics, marketing, and student leadership. My profile reflects a balance of performance, communication, and real-world initiative.
                 </p>
               </article>
 
